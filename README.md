@@ -3,7 +3,7 @@
 # DEFEATING MALWARE - BUILDING TROJANS 
  
 # AIM:  
- To build a Trojan and know the harmness of the trojan malwares in a computer system.  
+ To build a Trojan and know the harmness of the trojan malwares in a computer system.. 
  
 # PROCEDURE: 
 1. Create a simple trojan by using Windows Batch File (.bat) 
